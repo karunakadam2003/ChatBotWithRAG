@@ -586,3 +586,7 @@ async def on_message(message):
 
     await cl.Message(content=response_message).send()
 
+
+
+########################### Scraping the web ############################
+
